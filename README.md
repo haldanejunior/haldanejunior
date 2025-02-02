@@ -50,7 +50,7 @@ Me chamo Haldane Junior, tenho 24 anos e sou natural do Maranhão. Atualmente es
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=haldanejunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -58,7 +58,7 @@ Me chamo Haldane Junior, tenho 24 anos e sou natural do Maranhão. Atualmente es
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldanejunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
